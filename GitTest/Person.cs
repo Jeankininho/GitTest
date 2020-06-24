@@ -11,9 +11,13 @@ namespace GitTest
 
         public Person()
         {
-
+            
         }
 
+        public void Think()
+        {
+
+        }
 
         public void Run()
         {
