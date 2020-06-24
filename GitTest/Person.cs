@@ -6,15 +6,25 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    class Program
+    public class Person
     {
-        static void Main(string[] args)
-        {
-            int a = 312;
-            int b = 2;
 
-            Console.WriteLine(a * b);
+        public Person()
+        {
 
         }
+
+
+        public void Run()
+        {
+
+        }
+
+        public void Walk()
+        {
+
+        }
+
     }
+
 }
