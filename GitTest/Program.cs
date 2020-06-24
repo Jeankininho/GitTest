@@ -10,6 +10,11 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+            int a = 312;
+            int b = 2;
+
+            Console.WriteLine(a * b);
+
         }
     }
 }
