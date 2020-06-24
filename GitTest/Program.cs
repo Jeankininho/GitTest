@@ -10,6 +10,11 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
+
+            var cat = new Cat();
+
+            cat.Meow();
+
             //Perdi tudo
         }
     }

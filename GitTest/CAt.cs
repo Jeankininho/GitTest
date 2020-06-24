@@ -10,6 +10,10 @@ namespace GitTest
     {
         public void Meow()
         {
+        }
+
+        public void Sleep()
+        {
 
         }
     }
