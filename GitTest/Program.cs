@@ -10,15 +10,6 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            int a = 312;
-            int b = 2;
-
-            Console.WriteLine(a * b);
-
-            Console.WriteLine("´Hello world branch-1");
-
-
-            Console.WriteLine("agora vai alterar");
         }
     }
 }
